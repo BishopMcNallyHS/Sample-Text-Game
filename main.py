@@ -4,6 +4,9 @@ Final project
 text adventure game
 ...
 author : mr Truong
+p1 basic scenes
+p2 fight
+p3 add new scene
 """
 from random import randint
 name = ""#variable for character name
